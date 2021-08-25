@@ -42,6 +42,7 @@ class RestappController extends Controller
         
         return view('rest.create',$data);
     }
+    
 
     /**
      * Store a newly created resource in storage.
